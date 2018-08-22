@@ -1,6 +1,6 @@
 {
   "name": "v-select2-multiple-component",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "Select 2 Multiple control for Vue",
   "main": "src/Select2MultipleControl.vue",
   "repository": {

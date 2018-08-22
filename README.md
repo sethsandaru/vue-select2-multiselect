@@ -37,7 +37,7 @@ new Vue({
   </div>
 </template>
 <script>
-import Select2MultipleControl from 'v-select2-component';
+import Select2MultipleControl from 'v-select2-multiple-component';
 
 export default {
     // declare Select2MultipleControl
